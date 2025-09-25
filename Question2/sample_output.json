@@ -1,0 +1,40 @@
+{
+"input_data": {
+    "newegg_item": "N82E16820147795",
+    "search_query": "Samsung 970 EVO Plus SSD"
+},
+"results": [
+    {
+    "site": "newegg",
+    "price": null,
+    "currency": "USD",
+    "url": "https://www.newegg.com/p/N82E16820147795",
+    "status": "blocked"
+    },
+    {
+    "site": "amazon",
+    "price": "144.99",
+    "currency": "USD",
+    "url": "https://www.amazon.com/...",
+    "status": "success",
+    "title": "Samsung 970 EVO Plus SSD 1TB"
+    },
+    {
+    "site": "ebay",
+    "price": null,
+    "currency": "USD",
+    "status": "no_results"
+    }
+],
+"summary": {
+    "total_sites": 3,
+    "successful_sites": 1,
+    "lowest_price": 144.99,
+    "average_price": 144.99,
+    "savings_potential": 0
+},
+"metadata": {
+    "execution_time": "7.39 seconds",
+    "timestamp": "2024-01-15T10:30:00Z"
+    }
+}
