@@ -1,3 +1,5 @@
+![Python](https://img.shields.io/badge/python-3.9+-blue.svg)
+
 ## Price Benchmark MVP 🛒
 
 A lightweight price comparison CLI that, given a Newegg itemNumber, fetches a product price from Newegg, Amazon, and a third site (eBay by default or Best Buy with a flag). Designed as a pragmatic MVP to demonstrate approach, trade-offs, and next-step priorities.
