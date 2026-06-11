@@ -32,8 +32,6 @@ item_number          Newegg item number (e.g., N82E16820147795)
 
 ## Example output
 
-## Example output
-
 ```json
 {
   "input_data": {
