@@ -14,21 +14,21 @@ results, and prints a side-by-side price comparison in JSON.
 
 ## Run it
 
-​```bash
+```bash
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 python benchmark.py N82E16820147795
-​```
+```
 
 Options:
 
-​```
-item_number          Newegg item number (e.g., N82E16820147795)
---query QUERY        Manual search query for the other sites
---bestbuy            Use Best Buy instead of eBay
+```
+item_number              Newegg item number (e.g., N82E16820147795)
+--query QUERY            Manual search query for the other sites
+--bestbuy                Use Best Buy instead of eBay
 --output {json,pretty}   Output format (default: pretty)
-​```
+```
 
 ## Example output
 
